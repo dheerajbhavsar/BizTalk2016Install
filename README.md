@@ -1,8 +1,9 @@
 # BizTalk 2016 Install
 
-Download BizTalk 2016 and SQL Server 2016
+**Download BizTalk 2016 and SQL Server 2016**
 
 1.	Browse to https://my.visualstudio.com/benefits
+
 2.	Login with your organization account or outlook
  
 ![image](https://user-images.githubusercontent.com/17406958/120058949-e02cd400-c06b-11eb-9899-5222602cff6c.png)
@@ -26,7 +27,7 @@ Download BizTalk 2016 and SQL Server 2016
 7.	For BizTalk Installation and configuration please follow the steps mentioned in the whitepaper for download
 http://biztalk360.blob.core.windows.net/white-paper-v2/R0011-WHITE-PAPER-install-and-configure-BizTalk-server-2016-standalone-machine.pdf
 
-OR
+**OR**
 
 https://docs.microsoft.com/en-us/biztalk/install-and-config-guides/install-biztalk-server-2016
 
